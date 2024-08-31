@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/ayaho-kunimatsu/ayaho-kunimatsu/">
     <img src="https://komarev.com/ghpvc/?username=ayaho-kunimatsu" alt="ayaho-kunimatsu" />
   </a>
-  <a href="http://twitter.com/A_ayaho">
+  <a href="http://x.com/A_ayaho">
     <img height="20" src="https://img.shields.io/twitter/follow/A_ayaho?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/ayaho-kunimatsu">
