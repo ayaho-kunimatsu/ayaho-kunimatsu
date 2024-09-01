@@ -11,10 +11,10 @@
   <a href="https://github.com/ayaho-kunimatsu">
     <img height="20" src="https://img.shields.io/github/followers/ayaho-kunimatsu?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/yutkat">
+  <a href="http://qiita.com/aya_do9ll">
     <img height="20" src="https://qiita-badge.apiapi.app/s/aya_do9ll/posts.svg" />
   </a>
-  <//qiita.com/yutkat">
+  <//qiita.com/aya_do9ll">
     <img height="20" src="https://qiita-badge.apiapi.app/s/aya_do9ll/contributions.svg" />
   </a>
 </p>
